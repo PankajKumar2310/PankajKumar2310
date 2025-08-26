@@ -1,12 +1,18 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Pankaj Kumar</h1>
-<h3 align="center">A passionate MERN Stack Developer...</h3>
+<h3 align="center">MERN Stack Developer | AI/ML Enthusiast</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankajkuamr2310&label=Profile%20views&color=0e75b6&style=flat" alt="pankajkuamr2310" /> </p>
 
-- 🌱 I’m currently learning **Flask and AI/Ml technology**
+---
 
-- 📫 How to reach me **pankajkumarkoli885@gmail.com**
+- 💻 I’m a **passionate Full-Stack Developer** specializing in the **MERN Stack (MongoDB, Express, React, Node.js)**  
+- 🌱 Currently exploring **Flask** and diving deeper into **AI/ML technologies**  
+- 🚀 Interested in building **scalable web apps, APIs, and intelligent systems**  
+- 📫 Reach me at: **pankajkumarkoli885@gmail.com**  
+- ⚡ Fun fact: I love solving problems and turning ideas into working products  
 
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pankaj kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pankaj kumar" height="30" width="40" /></a>
