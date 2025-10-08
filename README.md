@@ -9,7 +9,7 @@
 - 💻 I’m a **passionate Full-Stack Developer** specializing in the **MERN Stack (MongoDB, Express, React, Node.js)**  
 - 🌱 Currently exploring **Flask** and diving deeper into **AI/ML technologies**  
 - 🚀 Interested in building **scalable web apps, APIs, and intelligent systems**  
-- 📫 Reach me at: **pankajkumarkoli885@gmail.com**  
+- 📫 Reach me at: **pnkj24connect@gmail.com**  
 - ⚡ Fun fact: I love solving problems and turning ideas into working products  
 
 ---
